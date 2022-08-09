@@ -1,0 +1,119 @@
+.fondo{
+    background-image: linear-gradient(185deg, #61e2ff 0, #5aa5dd 25%, #476989 50%, #2c333d 75%, #090000 100%)
+    
+}
+    
+.university{
+   display: flex;
+    flex-direction: row;
+    margin-left:0%;
+     
+}
+
+.cuerpo{
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+   font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 500px;
+    text-align:center;
+    
+    
+   
+}
+
+.nav li{
+   padding-left: 40px;
+   float: right;
+   list-style: none;
+
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
+        
+}
+
+.nav a{
+    color:black;
+    
+}
+
+.form-group {
+    color:white;
+}
+
+.checkbox {
+    color: aliceblue;
+}
+
+.comentarios{
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+
+
+
+.submit {
+  color:azure;
+}
+
+hr{
+    border: none; height: 1px; color:#090000 ; background-color:#090000;
+    
+}
+
+.titulo {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Berkshire Swash', cursive;
+    font-size:50px;
+    color:#090000;
+}
+
+.cuerpo img {
+    display: flex;
+    margin-right: 10px;
+}
+
+.informacion {
+    color:azure;
+    text-align: center;
+    margin-left: 100%;
+}
+
+.des{
+    background-color: aliceblue;
+}
+
+.color {
+    color:lightcyan;
+}
+
+.redes {
+    color: aqua;
+    font-size: 35px;
+}
+
+.mapa {
+    margin-left: 100%;
+}
+
+.copy{
+    color: azure;
+}
+
+.oferta{
+    background-color: azure;
+}
+
+.button{
+    background-color: aliceblue;
+}
+
